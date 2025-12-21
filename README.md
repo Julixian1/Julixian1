@@ -8,7 +8,7 @@
      src="./Images/Right_Side.gif?raw=true"
      width="250" />
 
-<br><br>
+<br>
 <p>
 I’m interested in software development with a strong emphasis on quality, correctness, and good design principles.
 I enjoy understanding the concepts behind building robust and maintainable software, from algorithms and data structures to concurrency and distributed systems.
