@@ -15,8 +15,9 @@ I enjoy understanding the concepts behind building robust and maintainable softw
 
 My goal is to develop a broad engineering perspective, combining solid fundamentals with practical judgment to design reliable and scalable software systems.
 </p>
-<picture> <img src="./Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
-<a href="mailto:julianalvarez13dejj@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Gmail-julianalvarez13dejj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:middle" />
+</p>
 
 <br clear="right" />
 
